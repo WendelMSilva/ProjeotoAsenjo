@@ -1,10 +1,10 @@
 # SUBIR SO PARA CASO EU NAO TENHA ACESSO AO MEU COMPUTADOR
 
 
-#ALTERAÇÕES FEITAS
+# ALTERAÇÕES FEITAS
 - Mudei a class Pessoa, alterei id para string e removi static no set,get.
 - Mudei a forma que os tx eram chamados, pode ser chamado pela variavel umapessoa.
-- Dentro da pasta Debug, esta o BDCadPessoa, para conectar ao banco de dados, quie esta senod chamado na class DAL.
+- Dentro da pasta Debug, esta o BDCadPessoa, para conectar ao banco de dados, que esta sendo chamado na class DAL.
 
 # PENDENCIAS QUE DEIXEI.
 - Conexão com o bando de dados esta dando problema.
