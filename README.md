@@ -26,5 +26,5 @@ private void CadFormCadastro_FormClosing(object sender, FormClosingEventArgs e)
  }
 
 
--Quando adicionada uma pessoa incrementar um ID para cada uma(+=1).
--Dar funcionalidade para os botões basicos, eu fiz todas as verificações ja, mas eles ainda n salvam/excluem nada.
+- Quando adicionada uma pessoa incrementar um ID para cada uma(+=1).
+- Dar funcionalidade para os botões basicos, eu fiz todas as verificações ja, mas eles ainda n salvam/excluem nada.
